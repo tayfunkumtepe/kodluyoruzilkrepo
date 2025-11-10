@@ -1,0 +1,19 @@
+a {
+    color: rgb(217, 209, 209);
+    margin-right: 30px;
+}
+.jumbotron {
+    padding: 50px;
+    text-align: center;
+}
+.card   {
+    margin: 5px;
+    height: 700px;
+    padding: px;
+    text-align: center;
+}
+
+p1  {
+    font-size: 20px; font-family: "Georgia", serif;
+    margin: 20px;
+}
